@@ -30,6 +30,10 @@
     ]
   },
   "devDependencies": {
-    "cross-env": "^7.0.3"
+    "cross-env": "^7.0.3",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "msw": "^1.2.0",
+    "@testing-library/user-event": "^14.4.3"
   }
 }
